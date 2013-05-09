@@ -1,0 +1,3 @@
+[submodule "libs/typo.css"]
+	path = libs/typo.css
+	url = git://github.com/sofish/typo.css.git

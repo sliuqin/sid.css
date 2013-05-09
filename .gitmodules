@@ -1,3 +1,6 @@
 [submodule "libs/typo.css"]
 	path = libs/typo.css
 	url = git://github.com/sofish/typo.css.git
+[submodule "libs/base"]
+	path = libs/base
+	url = git://github.com/aliceui/base.git
